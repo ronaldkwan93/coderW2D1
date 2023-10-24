@@ -1,0 +1,9 @@
+body {
+    background-color: darkgrey;
+}
+
+@media screen and (min-width:1000px) {
+    body {
+        background-color: lightgreen;
+    }
+}
